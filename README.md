@@ -9,23 +9,27 @@
 ## ⚙️ Technical Skills
 
 ### 🧩 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
 
 ### 🧱 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+</div>
 
 ### 🧰 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="25" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+</div>
 
 ---
 
