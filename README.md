@@ -2,9 +2,9 @@
 
 <div class="ul">
   <ul>
-    <li>Student of <strong>Informatics Engineering</strong></ul>
-    <li>Currently learning: <strong>HTML, CSS, and JavaScript</strong></ul>
-    <li>Based in <strong>Indonesia</strong></ul>
+    <li>Student of <strong>Informatics Engineering</strong><li>
+    <li>Currently learning: <strong>HTML, CSS, and JavaScript</strong></li>
+    <li>Based in <strong>Indonesia</strong></li>
   </ul>
 </div>
 
