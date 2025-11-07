@@ -1,8 +1,12 @@
 # 👋 Welcome to My Profile
 
-💻  Student of **Informatics Engineering**
-🔧  Currently learning: **HTML, CSS, and JavaScript**  
-📍   Based in **Indonesia**
+<div class="ul">
+  <li>
+    <ul>Student of <strong>Informatics Engineering</strong></ul>
+    <ul>Currently learning: <strong>HTML, CSS, and JavaScript</strong></ul>
+    <ul>Based in <strong>Indonesia</strong></ul>
+  </li>
+</div>
 
 ---
 
