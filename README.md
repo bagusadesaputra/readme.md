@@ -1,8 +1,8 @@
 # 👋 Welcome to My Profile
 
-💻 **Front-End Web Developer & Student**  
-🔧 Currently learning: HTML, CSS, and JavaScript  
-📍 Based in Indonesia  
+💻  Student of **Informatics Engineering**
+🔧  Currently learning: **HTML, CSS, and JavaScript**  
+📍   Based in **Indonesia**  
 
 ---
 
