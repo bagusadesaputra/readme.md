@@ -1,11 +1,11 @@
 # 👋 Welcome to My Profile
 
 <div class="ul">
-  <li>
-    <ul>Student of <strong>Informatics Engineering</strong></ul>
-    <ul>Currently learning: <strong>HTML, CSS, and JavaScript</strong></ul>
-    <ul>Based in <strong>Indonesia</strong></ul>
-  </li>
+  <ul>
+    <li>Student of <strong>Informatics Engineering</strong></ul>
+    <li>Currently learning: <strong>HTML, CSS, and JavaScript</strong></ul>
+    <li>Based in <strong>Indonesia</strong></ul>
+  </ul>
 </div>
 
 ---
