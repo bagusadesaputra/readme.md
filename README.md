@@ -9,7 +9,3 @@
 ## 📈 Learning Progress at Roadmap.sh
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b9e7fcb64402e0529b7bd7?variant=dark&roadmaps=html%2Ccss%2Cjavascript" alt="roadmap.sh"/></a>
-
-## Github Stats
-
-[![Bagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagusadesaputra)](https://github.com/bagusadesaputra/github-readme-stats)
