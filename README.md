@@ -8,9 +8,6 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Learning Progress at Roadmap.sh
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagusadesaputra&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusadesaputra&layout=compact&theme=transparent" height="160" />
-</p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66b9e7fcb64402e0529b7bd7?variant=dark&roadmaps=html%2Ccss%2Cjavascript" alt="roadmap.sh"/></a>
